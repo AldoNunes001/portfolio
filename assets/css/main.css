@@ -85,7 +85,10 @@ body {
   border-radius: 50%;
 }
 
-.about__text,
+.about__text {
+  margin: 20px 0 0 0;
+  text-align: justify;
+}
 .project__text {
   margin: 20px 0 0 0;
 }
